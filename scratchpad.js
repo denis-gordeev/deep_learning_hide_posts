@@ -11,12 +11,10 @@
 
 var actualCode = '(' + function() {
 	var keywords = [
-		"Vision", "Amazon", "verge", "geekwire", "geektimes", "медик", "GPU", "Today's", "C++", "OpenAI", "deepmind.com", "Uber", "huffingtonpost", "technologyreview", "facebook", "wired", "tryolabs", "erogol", "hyperbaton", "Recent arxiv.org", "theantimedia", "Startup", "startup", "стартап", "cbinsights", "bloomberg", 
+		"Vision", "Amazon", "verge", "geekwire", "geektimes", "медик", "GPU", "Today's", "C++", "OpenAI", "deepmind.com", "Uber", "huffingtonpost", "technologyreview", "facebook", "wired", "tryolabs", "erogol", "hyperbaton", "Recent arxiv.org", "theantimedia", "Startup", "startup", "стартап", "cbinsights", "bloomberg", "Recent <a href=", "Das Magazin"
 	];
 	var urls = [
-		"/domavern", "/businessstrategy", "/virashopru", "/tri10oe", "/kinona5", "/watson_club", "/brutal_kitchen",
-		"/vkchydaku", "/brandclubkiiik", "/web_highlights_kurs", "/tatoo_sketch", "/artihard", "/kulinarka", "/skyeng",
-		"/princapioff", "/illusthigh", "/chestnoeauto"
+		"/hackernoon",
 	];
 	var selectors = [
 		"div.reply",
